@@ -47,7 +47,7 @@ https://www.figma.com/design/Efs9ZqqL9DYjzKZ4LCyva5/Chairsyde-UI-Test?node-id=11
 
 # 3) TailwindCSS 6 - Ex:(Input feilds, card, button and dropdown)
 
-# Assignment screen video
+# 4) Assignment screen video
 https://www.awesomescreenshot.com/video/40984772?key=cd3ca362a513b13f0fe17652b8ea89bc
 
 
