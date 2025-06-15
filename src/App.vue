@@ -139,7 +139,7 @@ import img9 from './assets/card-img-9.png'
         </nav>
 
         
-        <button class="text-sm font-semibold text-white bg-green-600 hover:bg-green-700 px-4 py-2 rounded-md cursor-pointer">
+        <button class="text-sm font-semibold text-white bg-green-600 hover:bg-green-700 px-2 md:px-4 py-2  rounded-md cursor-pointer">
           <i class="fa-solid fa-pen mr-2"></i> Edit Session
         </button>
       </div>
