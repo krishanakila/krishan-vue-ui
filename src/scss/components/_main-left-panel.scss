@@ -1,0 +1,56 @@
+@use '../settings/color.settings' as *;
+
+
+//Main-left-panel--START
+.main-left-panel{
+    background-color: $color-green;
+}
+
+.main-nav-profile{
+    &__email{
+        color: $color-gray;
+    }
+}
+
+
+.main-container-center::-webkit-scrollbar {
+  width: 4px;              
+  height: 4px;              
+}
+
+.main-container-center::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.main-container-center::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 116, 139, 0.5); 
+  border-radius: 4px;
+}
+
+.right-sidebar-container::-webkit-scrollbar {
+  width: 4px;               
+  height: 4px;              
+}
+
+.right-sidebar-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.right-sidebar-container::-webkit-scrollbar-thumb {
+  background-color: rgba(100, 116, 139, 0.5);
+  border-radius: 4px;
+}
+
+
+/* Right sidebar slide animation */
+.slide-enter-active,
+.slide-leave-active {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.slide-enter-from,
+.slide-leave-to {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+//Main-left-panel--END
