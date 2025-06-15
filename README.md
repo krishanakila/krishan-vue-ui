@@ -1,4 +1,4 @@
-# Vite + Vue + TailwindCSS 4 + Fontawesome 6
+# Vite + Vue 3 + TailwindCSS 4 + Font Awesome 6
 
 This template should help get you started developing with Vue 3 in Vite. 
 
