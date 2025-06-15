@@ -17,7 +17,7 @@ import img9 from './assets/card-img-9.png'
     <!-- Mobile Topbar START-->
     <header class="bg-white shadow p-4 flex justify-between items-center md:hidden">
       <button @click="toggleSidebar" class="text-2xl">☰</button>
-      <h1 class="text-lg font-semibold">Chairsade</h1>
+      <h1 class="text-lg font-semibold">Chairsyde</h1>
       <div><img src="https://randomuser.me/api/portraits/men/75.jpg"  alt="Robert Lindley"  class="w-10 h-10 rounded-full"/></div>
     </header>
 
@@ -32,7 +32,7 @@ import img9 from './assets/card-img-9.png'
       ]"
     >
       <div>
-        <div class="p-6 text-lg font-bold border-b-[0.1px] border-gray-300 text-white">CHAIRSADE</div>
+        <div class="p-6 text-lg font-bold border-b-[0.1px] border-gray-300 text-white">CHAIRSYDE</div>
         <nav class="main-nav-bar p-4 space-y-2 ">
           <a href="#" class="main-nav-bar__item flex items-center py-2 px-4 rounded-[8px] hover:bg-white/15 text-white hover:text-green-500">
             <i class="fa-solid fa-house mr-2"></i> Home</a>
